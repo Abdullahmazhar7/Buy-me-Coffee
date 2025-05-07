@@ -12,3 +12,5 @@ that has the following buttons which map to the solidity smart contract:
 -withdraw ✅
 -Typescript ✅
 
+![image](https://github.com/user-attachments/assets/d2562218-49ec-49af-a553-6869bc99e362)
+
